@@ -30,7 +30,7 @@ num1=num2
 num2=temp
 print("Swapped values are:",num1,num2)
 ```
-##OUTPUT:
+## OUTPUT:
 
 ![swap](https://user-images.githubusercontent.com/118707879/225222799-6a2f9532-12e3-4f3e-b5cd-e817b0a77cf1.png)
 
